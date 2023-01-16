@@ -1,2 +1,1 @@
-# mi-preimer-repositorio-w
-repositorio modulo 2 con readme
+este es n poywecto de prueba
